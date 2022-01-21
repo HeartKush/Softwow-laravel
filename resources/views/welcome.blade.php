@@ -10,7 +10,8 @@
             pointer-events: none;
             position: absolute;
             top: 50%;
-            transform: translate(-50%, -50%)
+            transform: translate(-50%, -50%);
+            margin:0%;
         }
 
         .gm-control-active>img:nth-child(1) {
